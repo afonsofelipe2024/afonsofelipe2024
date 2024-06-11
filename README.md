@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá galera, sou Felipe aluno do Francisco Cristiano, sou gente boa, mas não gosto de fazer amizades 👋
 
 <!--
 **afonsofelipe2024/afonsofelipe2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
